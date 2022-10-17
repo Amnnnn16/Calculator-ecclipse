@@ -6,6 +6,7 @@ public class MainCalc {
 		// TODO Auto-generated method stub
 		Calculator ob=new Calculator();
 		int sum = ob.addition(10,20);
+		int sub=ob.sub(30, 40);
 	}
 
 }
