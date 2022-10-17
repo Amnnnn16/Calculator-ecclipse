@@ -7,6 +7,7 @@ public class MainCalc {
 		Calculator ob=new Calculator();
 		int sum = ob.addition(10,20);
 		int sub=ob.sub(30, 40);
+		int mult=ob.multi(10, 90);
 	}
 
 }
