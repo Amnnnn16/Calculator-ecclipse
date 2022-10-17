@@ -1,0 +1,11 @@
+package MyCalcPkg;
+
+public class MainCalc {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calculator ob=new Calculator();
+		int sum = ob.addition(10,20);
+	}
+
+}
